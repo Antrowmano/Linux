@@ -1,0 +1,9 @@
+sort
+----
+sort file11.txt
+  sort -r mix.txt 
+  sort -n file1.txt
+  sort -nr file1.txt
+  sort -k 1n employee.txt 
+  sort -M months.txt 
+  sort -u cars.txt _1
