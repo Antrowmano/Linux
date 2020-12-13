@@ -1,0 +1,8 @@
+Find
+------
+  find ./Desktop -name new.txt
+  find ./Desktop -name *.txt
+  find ./Desktop -name new -exec rm -i {} \;
+     exec=execute
+     rm=remove
+  find ./Desktop -empty
