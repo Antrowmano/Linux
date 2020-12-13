@@ -1,0 +1,7 @@
+uniq
+----
+  uniq -c love.txt 
+  uniq -d love.txt 
+  uniq -D love.txt
+  uniq -f 2 f1.txt 
+  uniq -s 3 f2.txt 
