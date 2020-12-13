@@ -1,0 +1,8 @@
+grep
+-----
+  grep -i "WHich" text.txt 
+  grep -c "unix" text.txt 
+  grep "unix" *
+  grep -n  "unix" text.txt 
+  grep -v  "learn" text.txt 
+  grep -r  "^learn" text.txt 
